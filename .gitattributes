@@ -1,0 +1,5 @@
+DataSet_Diabeticos_NoDiabeticos.csv filter=lfs diff=lfs merge=lfs -text
+DataSet_Diabeticos_NoDiabeticos_Depurado.csv filter=lfs diff=lfs merge=lfs -text
+2021_22DataSet_Diabeticos_NoDiabeticos_Depurado.csv filter=lfs diff=lfs merge=lfs -text
+2021DataSet_Diabeticos_NoDiabeticos_Depurado.csv filter=lfs diff=lfs merge=lfs -text
+2022DataSet_Diabeticos_NoDiabeticos_Depurado.csv filter=lfs diff=lfs merge=lfs -text
